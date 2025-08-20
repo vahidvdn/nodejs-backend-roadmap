@@ -293,6 +293,8 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Patterns
 
+- **Repository**
+    - [Real World Design Patterns with Fancy Diagrams and Tests](https://github.com/vahidvdn/realworld-design-patterns) 
 - **Book**
     - [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (English) (Paid)
     - [JavaScript Patterns](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752) (English) (Paid)
